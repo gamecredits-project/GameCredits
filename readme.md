@@ -3,6 +3,8 @@ GameCredits Core integration/staging tree
 
 https://gamecredits.org
 
+# Note: this repository is out of date. GameCredits is now an ERC-20 token. Please visit the website above for more info.
+
 What is GameCredits?
 ----------------
 
